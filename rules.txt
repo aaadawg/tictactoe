@@ -1,0 +1,19 @@
+RULES:
+This is a standard game of tic tac toe. 
+First to three in a row wins!
+If nobody can successfully get three in a row, its a Tie!
+
+The board coordinates are as follows:
+
+|--------------|
+| 02 | 12 | 22 |
+|--------------|
+| 01 | 11 | 21 |
+|--------------|
+| 00 | 10 | 20 |
+|--------------|
+
+To select your move, 
+simply type the coordinate in which you wish to place a piece.
+
+Then hit Enter.
